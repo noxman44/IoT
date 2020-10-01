@@ -9,3 +9,6 @@ Replace the ssid and password values in the script as per your configuration.
 
 More details and a complete guide can be found here:
 https://thesudoclub.wordpress.com/2018/10/09/turn-anything-iot-under-6/
+
+Help us with this project!
+Happy Source Code.
