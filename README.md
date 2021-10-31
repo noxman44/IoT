@@ -7,5 +7,4 @@ This project is about connecting an appliance to internet for automation with us
 
 Replace the ssid and password values in the script as per your configuration.
 
-More details and a complete guide can be found here:
-https://thesudoclub.wordpress.com/2018/10/09/turn-anything-iot-under-6/
+The devices needed will be listed below and the guide will be posted soon.....
